@@ -1,15 +1,69 @@
 
-<<<<<<< HEAD
-Your local changes
-=======
-Remote changes
->>>>>>> some_commit_hash
-<<<<<<< HEAD
-# online-store
-=======
-# Getting Started with Create React App
+# Online Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 📌 Overview
+
+This is an online store web application built using React.js. It provides users with a seamless shopping experience, allowing them to browse products and manage their shopping cart.
+
+# 🚀 Features
+
+🛒 Add and remove products from the shopping cart
+
+🔍 Browse product listings
+
+📦 View product details
+
+🎨 Responsive UI
+
+# 🛠️ Technologies Used
+
+Frontend: React.js
+
+Package Manager: npm
+
+Styling: CSS
+
+# 📂 Project Structure
+
+Online-store/
+├── public/
+│   ├── index.html
+├── src/
+│   ├── components/
+│   │   ├── ProductList.js
+│   │   ├── ShoppingCart.js
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   ├── index.css
+│   ├── reportWebVitals.js
+│   ├── setupTests.js
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── README.md
+
+# 📦 Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/Ramatulasi-Vagicharla/online-store.git
+
+Navigate to the project directory:
+
+cd online-store
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm start
+
+# 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
 ## Available Scripts
 
